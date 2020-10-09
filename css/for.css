@@ -1,0 +1,20 @@
+
+html{
+  background: #00c9ff; /* fallback for old browsers */
+ 
+  background: linear-gradient(to right, #00c9ff, #92fe9d); /* */
+}
+
+
+
+
+
+
+form {
+  background-color: #ffffff;
+  margin: 100px auto;
+  padding: 40px;
+  width: 70%;
+  min-width: 300px;
+}
+
